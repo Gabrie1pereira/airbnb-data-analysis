@@ -35,7 +35,7 @@ Dataset público contendo listagens do Airbnb em Nova York.
 
 ## 👨‍💻 Autor
 Gabriel Pereira  
-Analista de Dados em formação
+Analista de Dados em desenvolvimento 
 
 ## Dataset
 
