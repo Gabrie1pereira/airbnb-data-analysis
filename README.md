@@ -18,16 +18,12 @@ https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 ## 📊 Principais análises
 
 ### Distribuição de preços
-![Distribuição de Preços](images/price_distribution.png)
 
 ### Preço por tipo de acomodação
-![Tipo de acomodação](images/room_type_price.png)
 
 ### Preço médio por bairro
-![Bairros](images/neighborhood_price.png)
 
 ### Relação entre avaliações e preço
-![Reviews vs Price](images/reviews_vs_price.png)
 
 ## 📌 Principais insights
 
