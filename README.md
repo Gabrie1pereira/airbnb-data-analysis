@@ -11,6 +11,9 @@ Projeto de análise exploratória de dados utilizando Python para entender padr�
 
 ## 📂 Dataset
 Dataset público contendo listagens do Airbnb em Nova York.
+O dataset utilizado neste projeto está disponível publicamente no Kaggle:
+
+https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
 ## 📊 Principais análises
 
@@ -37,9 +40,5 @@ Dataset público contendo listagens do Airbnb em Nova York.
 Gabriel Pereira  
 Analista de Dados em desenvolvimento 
 
-## Dataset
 
-O dataset utilizado neste projeto está disponível publicamente no Kaggle:
-
-https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
