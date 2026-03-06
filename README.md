@@ -16,4 +16,10 @@ Esse projeto faz parte da construção do meu portfólio como Analista de Dados.
 🔗 Projeto completo no GitHub:
 https://github.com/Gabrie1pereira
 
+## Dataset
+
+O dataset utilizado neste projeto está disponível publicamente no Kaggle:
+
+https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
+
 #DataAnalytics #Python #DataScience #AnaliseDeDados #Portfólio
