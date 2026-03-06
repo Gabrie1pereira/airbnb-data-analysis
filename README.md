@@ -1,2 +1,19 @@
-# airbnb-data-analysis
-Projeto de aprendizagem e teste com Análise exploratória de dados do Airbnb utilizando Python
+🚀 Novo projeto de Análise de Dados!
+
+Recentemente desenvolvi uma análise exploratória utilizando Python com um dataset do Airbnb de Nova York.
+
+Nesse projeto analisei:
+📊 Distribuição de preços
+🏠 Tipos de acomodação
+📍 Diferenças de preço entre bairros
+⭐ Relação entre avaliações e valores
+
+Ferramentas utilizadas:
+Python | Pandas | Matplotlib | Seaborn | Jupyter Notebook
+
+Esse projeto faz parte da construção do meu portfólio como Analista de Dados.
+
+🔗 Projeto completo no GitHub:
+https://github.com/Gabrie1pereira
+
+#DataAnalytics #Python #DataScience #AnaliseDeDados #Portfólio
