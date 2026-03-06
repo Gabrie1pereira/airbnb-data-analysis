@@ -1,20 +1,41 @@
-🚀 Novo projeto de Análise de Dados!
+# 📊 Análise de Dados do Airbnb - Nova York
 
-Recentemente desenvolvi uma análise exploratória utilizando Python com um dataset do Airbnb de Nova York.
+Projeto de análise exploratória de dados utilizando Python para entender padrões de preços e tipos de acomodações do Airbnb em Nova York.
 
-Nesse projeto analisei:
-📊 Distribuição de preços
-🏠 Tipos de acomodação
-📍 Diferenças de preço entre bairros
-⭐ Relação entre avaliações e valores
+## 🛠 Ferramentas utilizadas
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
-Ferramentas utilizadas:
-Python | Pandas | Matplotlib | Seaborn | Jupyter Notebook
+## 📂 Dataset
+Dataset público contendo listagens do Airbnb em Nova York.
 
-Esse projeto faz parte da construção do meu portfólio como Analista de Dados.
+## 📊 Principais análises
 
-🔗 Projeto completo no GitHub:
-https://github.com/Gabrie1pereira
+### Distribuição de preços
+![Distribuição de Preços](images/price_distribution.png)
+
+### Preço por tipo de acomodação
+![Tipo de acomodação](images/room_type_price.png)
+
+### Preço médio por bairro
+![Bairros](images/neighborhood_price.png)
+
+### Relação entre avaliações e preço
+![Reviews vs Price](images/reviews_vs_price.png)
+
+## 📌 Principais insights
+
+- Apartamentos inteiros possuem preços significativamente maiores.
+- Manhattan apresenta os maiores valores médios.
+- A maioria das acomodações possui preços abaixo de $300.
+- Não existe correlação forte entre preço e número de avaliações.
+
+## 👨‍💻 Autor
+Gabriel Pereira  
+Analista de Dados em formação
 
 ## Dataset
 
@@ -22,4 +43,3 @@ O dataset utilizado neste projeto está disponível publicamente no Kaggle:
 
 https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
-#DataAnalytics #Python #DataScience #AnaliseDeDados #Portfólio
